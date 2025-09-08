@@ -26,7 +26,7 @@ The project uses the [`english-words`](https://pypi.org/project/english-words/) 
 
 ## 🎥 Demo
 
-![Dynamic-Text-Autocompleter](Dynamic-Text-Autocompleter.gif)
+![Dynamic-Text-Autocompleter](DynamicTextAutocompleter.gif)
 
 Typing `hel` will suggest words like:
 
